@@ -1,0 +1,16 @@
+{
+  "actorSpecification": 1,
+  "name": "g2-software-scraper",
+  "version": "1.0",
+  "title": "G2 Scraper",
+  "description": "Software reviews",
+  "categories": [
+    "Tech",
+    "Business Data"
+  ],
+  "inputSchema": "INPUT.json",
+  "isPublic": true,
+  "isCloud": true,
+  "isAnonymous": false,
+  "output": "./output_schema.json"
+}

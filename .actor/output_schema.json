@@ -1,0 +1,13 @@
+{
+    "actorOutputSchemaVersion": 1,
+    "title": "G2 Software Scraper Output",
+    "description": "Scraped software reviews and ratings from G2",
+    "properties": {
+        "products": {
+            "title": "G2 Products Dataset",
+            "description": "Link to the dataset containing scraped software data",
+            "type": "string",
+            "template": "{{links.apiDefaultDatasetUrl}}"
+        }
+    }
+}
